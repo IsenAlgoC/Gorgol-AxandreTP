@@ -1,0 +1,4 @@
+﻿  tab2.c
+C:\Users\axand\source\repos\TP5\Exo2\tab2.c(47,32): warning C4047: 'return' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\Users\axand\source\repos\TP5\Exo2\tab2.c(51,31): warning C4047: 'return' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+  Exo2.vcxproj -> C:\Users\axand\source\repos\TP5\Debug\Exo2.exe
