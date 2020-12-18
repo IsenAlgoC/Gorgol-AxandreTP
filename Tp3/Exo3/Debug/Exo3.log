@@ -1,0 +1,4 @@
+﻿  Source3.c
+C:\Users\axand\source\repos\TPC3\Exo3\Source3.c(52,14): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\axand\source\repos\TPC3\Exo3\Source3.c(83,32): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Exo3.vcxproj -> C:\Users\axand\source\repos\TPC3\Debug\Exo3.exe
