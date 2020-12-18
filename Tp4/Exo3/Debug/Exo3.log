@@ -1,0 +1,4 @@
+﻿  main3.c
+C:\Users\axand\source\repos\TP4\Exo3\main3.c(12,17): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
+C:\Users\axand\source\repos\TP4\Exo3\main3.c(8,1): warning C4047: 'initialisation' : les niveaux d'indirection de 'char' et de 'char [2]' sont différents
+  Exo3.vcxproj -> C:\Users\axand\source\repos\TP4\Debug\Exo3.exe
